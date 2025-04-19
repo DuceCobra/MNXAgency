@@ -1,2 +1,2 @@
-# MNXAgency/index.html
+# MNXAgency
 Onlyfans management agency
