@@ -15,6 +15,14 @@ body {
     width: 100%;
     border: none;
     display: block;
+    vertical-align: top; /* Remove gaps */
+    margin: 0; /* Ensure no margins */
+}
+
+/* Ensure no gaps in iframe content */
+html, body, section, header, footer {
+    margin: 0;
+    padding: 0;
 }
 
 /* Section Dividers */
